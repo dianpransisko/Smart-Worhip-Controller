@@ -1,5 +1,6 @@
 # Smart-Worhip-Controller
 # 🎹 Smart-Worship-Controller (MediaPipe AI)
+[![DOI](https://zenodo.org/badge/1168528875.svg)](https://doi.org/10.5281/zenodo.18812051)
 
 An intelligent computer vision system designed to control worship music or backing tracks using body gestures. Built with Python and MediaPipe, this tool allows worship leaders or technicians to trigger song sections (Verse, Chorus, Bridge) through stable, real-time pose estimation.
 
