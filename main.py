@@ -11,8 +11,8 @@ pygame.mixer.init()
 
 mp_pose = mp.solutions.pose
 pose = mp_pose.Pose(
-    min_detection_confidence=0.7,
-    min_tracking_confidence=0.7
+    min_detection_confidence=0.6,
+    min_tracking_confidence=0.6
 )
 mp_draw = mp.solutions.drawing_utils
 
